@@ -1,11 +1,5 @@
 # Muhammad Arif Bucholi
 
-Fullstack Developer focused on web development, backend architecture, REST API development, and database systems.
-
----
-
-# About Me
-
 I am a Fullstack Developer who enjoys building scalable web applications, REST APIs, and modern backend systems using Golang, Laravel, JavaScript, and React ecosystem technologies.
 
 ---
