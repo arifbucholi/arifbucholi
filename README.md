@@ -8,12 +8,16 @@ Fullstack Developer focused on web development, backend architecture, REST API d
 
 I am a Fullstack Developer who enjoys building scalable web applications, REST APIs, and modern backend systems using Golang, Laravel, JavaScript, and React ecosystem technologies.
 
-Currently focusing on:
-- Backend Development
+---
+
+# Current Focus
+
+- Fullstack Web Development
+- Backend Architecture
 - REST API Development
-- Database Relational Design
-- Fullstack Web Application
-- Clean Architecture
+- Database Optimization
+- Clean Code
+- System Design
 
 ---
 
@@ -24,7 +28,7 @@ Currently focusing on:
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
 
 </div>
-
+<br>
 <div align="left">
 
 <img src="https://img.shields.io/badge/Responsive_Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +53,7 @@ Currently focusing on:
 <img src="https://go-skill-icons.vercel.app/api/icons?i=echo,fiber,gorm,swagger" />
 
 </div>
-
+<br>
 <div align="left">
 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -69,7 +73,7 @@ Currently focusing on:
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 
 </div>
-
+<br>
 <div align="left">
 
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -178,17 +182,6 @@ Development of Temanodin procurement management system with multi-level approval
 - Tailwind CSS
 - MySQL
 - JavaScript
-
----
-
-# Current Focus
-
-- Fullstack Web Development
-- Backend Architecture
-- REST API Development
-- Database Optimization
-- Clean Code
-- System Design
 
 ---
 
