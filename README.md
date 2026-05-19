@@ -17,17 +17,32 @@ Currently focusing on:
 
 ---
 
-# Tech Stack
+# Frontend Development
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=php,go,js,ts,html,css,bootstrap,tailwind,react,nextjs,laravel,nodejs,mysql,postgres,figma,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+
+</div>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Responsive_Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_Integration-0EA5E9?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Dynamic_Rendering-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO_Optimization-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
 ---
 
-# Backend & Tools
+# Backend Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=php,go,nodejs,laravel,mysql,postgres" />
+
+</div>
 
 <div align="left">
 
@@ -35,18 +50,30 @@ Currently focusing on:
 
 </div>
 
----
-
-# Architecture & Development
-
 <div align="left">
 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge&logo=dependabot&logoColor=white" />
 <img src="https://img.shields.io/badge/Repository_Pattern-4B5563?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SEO_Optimization-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Authentication-DC2626?style=for-the-badge&logo=auth0&logoColor=white" />
+
+</div>
+
+---
+
+# Tools & Platforms
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+
+</div>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 
 </div>
 
