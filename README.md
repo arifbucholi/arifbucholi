@@ -21,18 +21,34 @@ Currently focusing on:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=php,go,js,ts,html,css,bootstrap,tailwind,react,nextjs,laravel,nodejs,mysql,postgres,figma,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=php,go,js,ts,html,css,bootstrap,tailwind,react,nextjs,laravel,nodejs,mysql,postgres,figma,git,github,postman,vscode" />
 
 </div>
 
-### Additional Tools & Technologies
-- Echo Golang
-- Fiber Golang
-- Swagger
-- REST API
-- GORM
-- DBeaver
-- XAMPP
+---
+
+# Backend & Tools
+
+<div align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=echo,fiber,gorm,swagger" />
+
+</div>
+
+---
+
+# Architecture & Development
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge&logo=dependabot&logoColor=white" />
+<img src="https://img.shields.io/badge/Repository_Pattern-4B5563?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO_Optimization-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive_Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
 
 ---
 
